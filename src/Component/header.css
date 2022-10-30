@@ -1,0 +1,21 @@
+.header__top{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: black;
+
+}
+
+.header__top ul{
+    display: flex;
+    justify-content: space-between;
+}
+.header__top ul li{
+    display: flex;
+    margin-right: 50px;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.header__top ul li link{
+    color: black;
+}
